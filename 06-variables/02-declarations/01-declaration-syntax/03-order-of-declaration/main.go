@@ -9,6 +9,6 @@
 package main
 
 func main() {
+        // var speed int
 	// fmt.Println(speed)
-	// var speed int
 }
